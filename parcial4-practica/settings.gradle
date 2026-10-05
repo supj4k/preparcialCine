@@ -1,0 +1,2 @@
+rootProject.name = 'cine-udp-tcp'
+include 'server', 'kiosco', 'cliente', 'verificador'
